@@ -21,7 +21,7 @@ int main()
         if(a[i]<minn) minn=a[i];
     }
     if(prime[maxn-minn]) cout<<"Lucky Word"<<endl<<maxn-minn;
-    else cout<<"No Answer"<<endl<<0;
+    else {cout<<"No Answer"<<endl<<0; cout<<"No Answer"<<endl<<0;}
     return 0;
 
 }
