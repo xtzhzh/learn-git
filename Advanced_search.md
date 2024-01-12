@@ -6,6 +6,6 @@ eg. algorithm-ads
 3. \*
 eg. * university of science and technology
 4. filetype:
-eg. filetype:PPT
+eg. filetype:pdf
 5. Site:
 eg. site:stackoverflow.com
